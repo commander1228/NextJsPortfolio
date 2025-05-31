@@ -44,6 +44,10 @@ html{
   font-size:32px;
 }
 
+h1{
+  font-size: 80px;
+}
+
 .container {
   @apply mx-auto flex flex-col items-center min-h-screen px-6 pt-8;
 }
